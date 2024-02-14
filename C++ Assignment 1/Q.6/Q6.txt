@@ -1,0 +1,8 @@
+Q6. How many of these can be a variable name ?
+
+
+1. 01Pwskills        ->> cann't be variable
+2. _FLOAT            ->> can be variable
+3. int               ->> cann't be variable
+4. FLOAT             ->> can be variable
+5. You will succeed  ->> cann't be variable
